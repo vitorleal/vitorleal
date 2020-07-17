@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**vitorleal/vitorleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech executive with deep hands-on experience in technology development, product management, innovation and general management.
 
-Here are some ideas to get you started:
+Working with tech long enough to know that I will never know everything, so I should keep open minded and seek learning every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strongly believe that people make a real difference in companies success.
+
+Specialities: Tech startups, innovation, problem solving, people 
+
+- 🔭 I’m currently working on amazing projects
+- 🌱 I’m currently learning to disconnect
+- 👯 I’m looking to collaborate with great people
+- 💬 Ask me about development and teams
+- 😄 Pronouns: he/him
