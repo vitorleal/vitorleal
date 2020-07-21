@@ -11,5 +11,5 @@ Specialities: Tech startups, innovation, problem solving, people
 - 🔭 I’m currently working on amazing projects
 - 🌱 I’m currently learning to disconnect
 - 👯 I’m looking to collaborate with great people
-- 💬 Ask me about development and teams
+- 💬 Ask me about development, teams and family
 - 😄 Pronouns: he/him
