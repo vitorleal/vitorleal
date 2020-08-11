@@ -6,10 +6,10 @@ Working with tech long enough to know that I will never know everything, so I sh
 
 Strongly believe that people make a real difference in companies success.
 
-Specialities: Tech startups, innovation, problem solving, people 
+Specialities: `Tech startups`, `innovation`, `problem solving`, `people` 
 
-- 🔭 I’m currently working on amazing projects
-- 🌱 I’m currently learning to disconnect
+- 🔭 I’m currently working on amazing financial tech project to help democratize access to solar renewable energy in Brazil
+- 🌱 I’m currently learning to disconnect from tech
 - 👯 I’m looking to collaborate with great people
 - 💬 Ask me about development, teams and family
 - 😄 Pronouns: he/him
