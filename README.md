@@ -12,4 +12,5 @@ Specialities: `Tech startups`, `innovation`, `problem solving`, `people`
 - 🌱  I’m currently learning to disconnect from tech
 - 🚀  I’m looking to collaborate with great people
 - 💬  Ask me about development, teams and family
+- 🎗  Volunteer at [https://www.laboratoria.la]
 - 😄  Pronouns: he/him
