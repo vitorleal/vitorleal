@@ -8,7 +8,7 @@ Strongly believe that people make a real difference in companies success.
 
 Specialities: `Tech startups`, `innovation`, `problem solving`, `people` 
 
-- 🔭  I’m currently working on amazing financial tech project to help democratize access to solar renewable energy in Brazil
+- 🔭  I’m currently working on the best platform for Digital Content Creators
 - 🌱  I’m currently learning to disconnect from tech
 - 🚀  I’m looking to collaborate with great people
 - 💬  Ask me about software, startup, team and family
