@@ -11,7 +11,7 @@ Specialities: `Tech startups`, `innovation`, `problem solving`, `people`
 - 🔭  I’m currently working on the best AI Assistant for Real Estate market [Lais.ai](https://lais.ai)
 - 🌱  I’m currently learning to disconnect from tech
 - 🚀  I’m looking to collaborate with great people
-- 💬  Ask me about software, startup, team and family
+- 💬  Ask me about software, startup, teams
 - 📃  Content curator in [Prensa](https://prensa.li/) and [ApiCon](http://apicon.com.br/)
 - 🎗  Volunteer at [https://www.laboratoria.la]
 - 😄  Pronouns: he/him
