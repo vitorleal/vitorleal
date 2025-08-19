@@ -8,7 +8,7 @@ Strongly believe that people make a real difference in companies success.
 
 Specialities: `Tech startups`, `innovation`, `problem solving`, `people` 
 
-- 🔭  I’m currently working on the best platform for Digital Content Creators
+- 🔭  I’m currently working on the best AI Assistant for Real Estate market [Lais.ai](https://lais.ai)
 - 🌱  I’m currently learning to disconnect from tech
 - 🚀  I’m looking to collaborate with great people
 - 💬  Ask me about software, startup, team and family
